@@ -1,0 +1,6 @@
+{
+  "name": "Cellier d'Origine",
+  "description": "Cave à vin encyclopédique pour PC : cépages français et mondiaux, atlas des régions viticoles, focus Liban, accords mets et vins en temps réel, millésimes, fiches de vinification et carnet de dégustation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
